@@ -1,0 +1,80 @@
+* {
+  font-family: "poppins";
+}
+
+.text-n {
+  color: "#3f3f3f"
+}
+
+body {
+  background-color: #e8e8e8;
+}
+
+.form-input {
+  border-radius: 6px;
+  outline: none;
+  border: none;
+  border: 2px solid #959595;
+  width: 100%;
+  padding-top: 1.5ch;
+  padding-bottom: 1.5ch;
+  transition: 0.2s;
+}
+
+.form{
+  background-color: #fff;
+}
+
+.form-input:focus {
+  background-color: #e8e8e8;
+}
+
+.btn-primary {
+  background: #ff6836 !important;
+  border: none !important;
+}
+.bg-primary {
+  background: #ff6836 !important;
+  border: none !important;
+}
+.btn-primary:hover {
+  background: #ff4203 !important;
+}
+
+.text-primary{
+  color: #ff6836 !important;
+}
+.text-success{
+  color: #06c432 !important;
+}
+.text-secondary{
+  color: #969696 !important;
+}
+.text-info{
+  color: #00d0ff !important;
+}
+
+.text-sm{
+  font-size: 0.9rem;
+}
+.text-xs{
+  font-size: 0.7rem;
+}
+
+.active-n{
+  color: #ff4203 !important;
+}
+
+.search-box{
+  background: #d9d9d9;
+  border-radius: 30px;
+}
+
+.progress-sm{
+  height: 0.8ch !important;
+  border-radius: 0;
+}
+
+.progress-bar{
+  background: #ff4203;
+}
